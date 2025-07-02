@@ -57,6 +57,7 @@ php artisan migrate --seed
 
 # Inicie o servidor
 php artisan serve
+```bash
 
 ---
 
