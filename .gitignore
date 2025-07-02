@@ -1,0 +1,43 @@
+# Laravel Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.backup
+.env.production
+
+# IDE / Editor folders
+/.idea
+/.vscode
+/.phpactor.json
+/.zed
+/.fleet
+/.nova
+
+# PHPUnit cache files
+.phpunit.result.cache
+/.phpunit.cache
+
+# Auth (Composer credentials)
+auth.json
+
+# Node modules and assets
+/node_modules
+/public/build
+/public/hot
+
+# Storage and cache
+/storage/*.key
+/storage/pail
+/public/storage
+
+# Vendor dependencies
+/vendor
+
+# Homestead files
+Homestead.json
+Homestead.yaml
