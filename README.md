@@ -83,10 +83,14 @@ Senha: senha@456
 ## 🧪 Rodando os Testes
 
 # Rodar todos os testes
+```bash
 php artisan test
+```
 
 # Rodar um teste específico
+```bash
 php artisan test tests/Feature/AutenticacaoTeste.php
+```
 
 ---
 
